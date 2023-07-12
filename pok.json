@@ -1,0 +1,55 @@
+calorie:
+[
+    {
+      "calorie": 150.139404296875,
+      "day": "Mon",
+      "endDate": "2023-07-11T00:00:00.000Z",
+      "startDate": "2023-07-10T00:00:00.000Z"
+    },
+    {
+      "calorie": 114.18603515625,
+      "day": "Tue",
+      "endDate": "2023-07-12T00:00:00.000Z",
+      "startDate": "2023-07-11T00:00:00.000Z"
+    },
+    {
+      "calorie": -1073.1527099609375,
+      "day": "Wed",
+      "endDate": "2023-07-12T05:37:16.690Z",
+      "startDate": "2023-07-12T00:00:00.000Z"
+    }
+  ]
+
+  Move Minutes : 
+  [
+    {
+      "appName": "Google Play services",
+      "appPackageName": "com.google.android.gms",
+      "dataSourceId": "derived:com.google.active_minutes:com.google.android.gms:aggregated",
+      "dataTypeName": "com.google.active_minutes",
+      "duration": 70,
+      "endDate": 1688998260000,
+      "originDataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:estimated_steps",
+      "startDate": 1688980620000
+    },
+    {
+      "appName": "Google Play services",
+      "appPackageName": "com.google.android.gms",
+      "dataSourceId": "derived:com.google.active_minutes:com.google.android.gms:aggregated",
+      "dataTypeName": "com.google.active_minutes",
+      "duration": 99,
+      "endDate": 1689092760000,
+      "originDataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:estimated_steps",
+      "startDate": 1689046140000
+    },
+    {
+      "appName": "Google Play services",
+      "appPackageName": "com.google.android.gms",
+      "dataSourceId": "derived:com.google.active_minutes:com.google.android.gms:aggregated",
+      "dataTypeName": "com.google.active_minutes",
+      "duration": 19,
+      "endDate": 1689135480000,
+      "originDataSourceId": "derived:com.google.step_count.delta:com.google.android.gms:estimated_steps",
+      "startDate": 1689132120000
+    }
+  ]
